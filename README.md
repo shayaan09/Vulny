@@ -1,4 +1,4 @@
-# vulnAI
+# Vulny
 
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
 [![PyPI](https://img.shields.io/pypi/v/vulnai)](https://pypi.org/project/vulnai/)
